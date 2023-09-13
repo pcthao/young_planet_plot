@@ -1,0 +1,80 @@
+pl_name & Association & st_age_myr & pl_rade & pl_orbper
+AU Mic b & Beta Pictoris & 22 & 4.19 & 8.463
+AU Mic c & Beta Pictoris & 22 & 2.79 & 18.859019
+DS Tuc A b & Tucana–Horologium & 40 & 5.63 & 8.1387
+EPIC 211822797 b & Praesepe & 700 & 1.92 & 21.1701963
+HD 109833 b & MELANGE-4 & 27 & 2.888 & 9.188526
+HD 109833 c & MELANGE-4 & 27 & 2.59 & 13.900148
+HD 110082 b &  MELANGE-1 & 250 & 3.2 & 10.18271
+HD 114082 b & Young Field & 15 & 11.209 & 109.75
+HD 18599 b & Young Field & 400 & 2.6 & 4.1374354
+HD 63433 b & Ursa Major & 414 & 2.15 & 7.107789
+HD 63433 c & Ursa Major & 414 & 2.71 & 20.543888
+HD 63433 d & Ursa Major & 414 & 1.102 & 4.209
+HD 73583 b & Young Field & 480 & 2.79 & 6.398042
+HD 73583 c & Young Field & 480 & 2.39 & 18.87974
+HIP 67522 b & Sco-Cen OB  & 17 & 10.07 & 6.959503
+HIP 94235 b & Young Field & 118 & 3.207 & 7.712121
+K2-100 b & Praesepe & 700 & 3.88 & 1.6739035
+K2-101 b & Praesepe & 700 & 2 & 14.6762429
+K2-102 b & Praesepe & 700 & 1.3 & 9.915615
+K2-104 b & Praesepe & 700 & 1.79 & 1.9741954
+K2-105 b & Young Field & 600 & 3.59 & 8.2669928
+K2-136 b & Hyades & 700 & 1.014 & 7.9752
+K2-136 c & Hyades & 700 & 3 & 17.30713
+K2-136 d & Hyades & 700 & 1.565 & 25.575
+K2-233 b & Young Field & 360 & 1.343 & 2.4675
+K2-233 c & Young Field & 360 & 1.281 & 7.06005
+K2-233 d & Young Field & 360 & 2.358 & 24.3645
+K2-25 b & Hyades & 700 & 3.44 & 3.4845627
+K2-264 b & Praesepe & 700 & 2.231 & 5.840002
+K2-264 c & Praesepe & 700 & 2.668 & 19.660302
+K2-284 b & Cas-Tau & 120 & 2.78 & 4.795069
+K2-33 b & Upper Sco & 10 & 5.04 & 5.424865
+K2-77 b & Young Field & 850 & 2.498 & 8.199814
+K2-95 b & Praesepe & 700 & 3.31 & 10.1346454
+KOI-7368 b & Cep-Her Complex & 36 & 2.22 & 6.8430344
+Kepler-1928 b & MELANGE-3 & 105 & 1.992 & 19.57783
+Kepler-411 b & Young Field & 212 & 2.401 & 3.005156
+Kepler-411 c & Young Field & 212 & 4.421 & 7.834435
+Kepler-411 d & Young Field & 212 & 3.319 & 58.02035
+Kepler-51 b & Young Field & 500 & 6.89 & 45.1542
+Kepler-51 c & Young Field & 500 & 8.98 & 85.3139
+Kepler-51 d & Young Field & 500 & 9.46 & 130.1845
+Kepler-63 b & Young Field & 210 & 5.766 & 9.43415035
+Kepler-970 b & MELANGE-3  & 105 & 2.609 & 16.736525
+TOI-1136 b & Young Field & 700 & 1.9 & 4.17278
+TOI-1136 c & Young Field & 700 & 2.879 & 6.25725
+TOI-1136 d & Young Field & 700 & 4.627 & 12.51937
+TOI-1136 e & Young Field & 700 & 2.639 & 18.7992
+TOI-1136 g & Young Field & 700 & 2.53 & 39.5387
+TOI-1136 f & Young Field & 700 & 3.88 & 26.3162
+TOI-1227 b & Epsilon Cha & 11 & 9.572 & 27.36397
+TOI-1268 b & Young Field & 390 & 8.373 & 8.157728
+TOI-1807 b & Crius 224 & 300 & 1.37 & 0.549374
+TOI-2048 b & Group X & 300 & 2.61 & 13.79019
+TOI-2076 b & Crius 224 & 340 & 2.518 & 10.35509
+TOI-2076 c & Crius 224 & 340 & 3.497 & 21.01538
+TOI-2076 d & Crius 224 & 340 & 3.232 & 35.12537
+TOI-251 b & tbd & 180 & 2.74 & 4.9377254
+TOI-451 b &  Pisces–Eridanus & 120 & 1.91 & 1.858703
+TOI-451 c &  Pisces–Eridanus & 120 & 3.1 & 9.192522
+TOI-451 d &  Pisces–Eridanus & 120 & 4.07 & 16.364988
+TOI-4562 b & Young Field & 700 & 12.53 & 225.11781
+TOI-712 b & Young Field & 830 & 2.049 & 9.531361
+TOI-712 c & Young Field & 830 & 2.701 & 51.69906
+TOI-712 d & Young Field & 830 & 2.474 & 84.8396
+TOI-837 b & IC 2602 & 35 & 8.631 & 8.324876
+TOI-942 b & Young Field & 60 & 3.89 & 4.32421
+TOI-942 c & Young Field & 60 & 4.67 & 10.156272
+V1298 Tau b & Taurus & 23 & 9.53 & 24.141341
+V1298 Tau c & Taurus & 23 & 5.05 & 8.2438
+V1298 Tau d & Taurus & 23 & 6.13 & 12.396
+V1298 Tau e & Taurus & 23 & 9.94 & 44.1699
+WASP-59 b & Young Field & 500 & 8.687 & 7.919585
+Kepler-1627 b & Cep-Her Complex & 38 & 3.777 & 7.2
+Kepler-1643 b & Cep-Her Complex & 46 & 2.32 & 5.342645
+KOI-7913 Ab & Cep-Her Complex & 36 & 2.34 & 24.278571
+HD 283869 b & Hyades & 700 & 1.96 & 106
+TOI-1224 b & MELANGE-5 & 175 & 1.96 & 4.1782709
+TOI-1224 c & MELANGE-5 & 175 & 3.02 & 17.945384
